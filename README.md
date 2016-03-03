@@ -1,4 +1,3 @@
 # hello-world
-ez csak egy proba
 
-de most ma neki álta garázdálkodni
+Ezen tényleg jó játszani...
